@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork01_FibonacciSeries", "HomeWork01_FibonacciSeries\HomeWork01_FibonacciSeries.csproj", "{37FF912A-1EF6-49FB-91FB-C929E746F243}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork02_JosephusProblem", "HomeWork02_JosephusProblem\HomeWork02_JosephusProblem.csproj", "{3EAD41C1-9475-480C-9744-6251671FCBB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork05_Luwei", "HomeWork05_Luwei\HomeWork05_Luwei.csproj", "{D993DC36-5194-43B8-B35D-AEF895FA7A1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork03_Sales", "HomeWork03_Sales\HomeWork03_Sales.csproj", "{A1CF9447-FC9A-4121-B205-F62B3EB351AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork04_Transport", "HomeWork04_Transport\HomeWork04_Transport.csproj", "{61078AE8-1766-40D3-87F9-1C3D8BD3787E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeWork06_ParkCaculate", "HomeWork06_ParkCaculate\HomeWork06_ParkCaculate.csproj", "{6CF08432-55C0-4383-91C4-CEDC0E923029}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{37FF912A-1EF6-49FB-91FB-C929E746F243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37FF912A-1EF6-49FB-91FB-C929E746F243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37FF912A-1EF6-49FB-91FB-C929E746F243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37FF912A-1EF6-49FB-91FB-C929E746F243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EAD41C1-9475-480C-9744-6251671FCBB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EAD41C1-9475-480C-9744-6251671FCBB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EAD41C1-9475-480C-9744-6251671FCBB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EAD41C1-9475-480C-9744-6251671FCBB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D993DC36-5194-43B8-B35D-AEF895FA7A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D993DC36-5194-43B8-B35D-AEF895FA7A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D993DC36-5194-43B8-B35D-AEF895FA7A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D993DC36-5194-43B8-B35D-AEF895FA7A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1CF9447-FC9A-4121-B205-F62B3EB351AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1CF9447-FC9A-4121-B205-F62B3EB351AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1CF9447-FC9A-4121-B205-F62B3EB351AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1CF9447-FC9A-4121-B205-F62B3EB351AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61078AE8-1766-40D3-87F9-1C3D8BD3787E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61078AE8-1766-40D3-87F9-1C3D8BD3787E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61078AE8-1766-40D3-87F9-1C3D8BD3787E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61078AE8-1766-40D3-87F9-1C3D8BD3787E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CF08432-55C0-4383-91C4-CEDC0E923029}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CF08432-55C0-4383-91C4-CEDC0E923029}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CF08432-55C0-4383-91C4-CEDC0E923029}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CF08432-55C0-4383-91C4-CEDC0E923029}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D8FADA5-57EF-4C52-937C-63262CEAA425}
+	EndGlobalSection
+EndGlobal
